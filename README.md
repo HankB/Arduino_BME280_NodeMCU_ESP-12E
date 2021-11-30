@@ -4,6 +4,8 @@ Working example. Main code from <https://platformio.org/lib/show/166/Adafruit%20
 
 ## Setup
 
+Hardware is `NodeMCU 1.0 (ESP-12E Module)`.
+
 |BME-280|NodeMCU|comments|
 |---|---|---|
 |VIN|3V|
